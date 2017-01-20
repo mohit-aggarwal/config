@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 # Install vimrc
 git clone git://github.com/amix/vimrc.git ~/.vim_runtime
